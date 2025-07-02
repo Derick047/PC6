@@ -1,1 +1,2 @@
-# PC6
+# PC6 - Derick Guzman Moya y CLAUDIA YESENIA POMAHUALLCA CHAHUA
+### En esta sección se trabajaron operaciones espaciales básicas aplicadas a datos geográficos de Estados Unidos. Se utilizaron mapas de puntos (aeropuertos y ciudades) y líneas (ríos) para calcular matrices de distancia, identificar elementos más cercanos y lejanos, generar buffers alrededor de líneas, y seleccionar los puntos contenidos en dichas zonas de influencia. Se integraron mapas estáticos y dinámicos para visualizar los resultados mediante matplotlib y folium. En el siguiente se encuentra el Proyecto realizado [PC6_1](https://derick047.github.io/introgeodf/)
